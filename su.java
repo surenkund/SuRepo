@@ -10,6 +10,8 @@ class Su{
 		System.out.print("new code");
 		System.out.print("new code2");
 		System.out.print("new code3");
+		System.out.print("eclipse");
+
 	}
 	
 }
